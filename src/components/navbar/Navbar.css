@@ -1,0 +1,22 @@
+.btn {
+    background-color: #f9d3b4 !important;
+     
+  }
+
+.navbar-brand:hover{
+    color: #f9d3b4 !important;
+}
+
+.navlink:hover{
+    color:#f9d3b4 !important;
+}
+
+.navbar{
+     background-color: #343739 !important;
+}
+
+ul li a,.navbar-brand{
+    font-family: cursive;
+}
+
+ 

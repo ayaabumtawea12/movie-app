@@ -1,0 +1,29 @@
+input{
+    height: 50px;
+    margin-bottom: 5px !important;
+    width: 100% ;
+}
+
+button{
+    padding: 10px !important;
+    margin-bottom: 10px !important;
+    
+}
+
+.imgReg{
+    margin-top: 50px  !important;
+  
+  
+
+}
+
+.register{
+    background-image: url('./../../../public/images/bg2.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+
+/**/
+
+ 

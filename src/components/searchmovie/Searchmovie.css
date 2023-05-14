@@ -1,0 +1,19 @@
+/*.search-box{
+    height: 300px !important;
+}
+*/
+  
+@media (max-width:474px)  {
+
+    h1{
+       font-size: 40px !important;
+    }
+
+}
+@media (max-width:310px)  {
+
+    h1{
+       font-size: 30px !important;
+    }
+
+}

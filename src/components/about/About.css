@@ -1,0 +1,44 @@
+.itemc{
+    margin-top: 56px;
+}
+
+.About{
+position: relative;
+}
+
+.btnabout{
+ 
+    position: absolute;
+    right: 50%;
+    top: 50%;
+ 
+ }
+
+.imgabout img{
+    width: 100%;
+    height: 450px;
+    object-fit: contain;
+}
+
+ .about p{
+    font-family: cursive;
+}
+
+@media (max-width:767px)  {
+
+    .about img{
+       display: none;
+    }
+
+}
+
+
+ 
+
+ 
+
+
+
+
+
+

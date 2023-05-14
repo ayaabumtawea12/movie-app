@@ -1,0 +1,46 @@
+.log{
+    margin-top: 180px;
+}
+
+.formlogin{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ 
+
+.login{
+    background-image: url('./../../../public/images/bg2.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+@media (min-width:300px) and (max-width:500px) {
+
+    .formlogin{
+        width:100% !important;
+    }
+
+}
+
+
+@media (min-width:600px) and (max-width:800px)  {
+
+    .formlogin{
+        width:70% !important;
+    }
+
+}
+
+
+@media (min-width:850px) and (max-width:1500px)  {
+
+    .formlogin{
+        width:50% !important;
+    }
+
+}
